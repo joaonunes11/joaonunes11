@@ -14,16 +14,16 @@
 
 ## 🚀 Featured Projects
 
-🔹 [hotel-booking-webapp](https://github.com/your-username/hotel-booking-webapp)  
+🔹 [hotel-booking-webapp](https://github.com/joaonunes11/hotel-booking-webapp)  
 🏨 Responsive hotel booking site with JavaScript and modular components (Front-End Project)
 
-🔹 [cybersecurity-management-platform](https://github.com/your-username/cybersecurity-management-platform)  
+🔹 [cybersecurity-management-platform](https://github.com/joaonunes11/cybersecurity-management-platform)  
 🛡️ Back-End application for managing cybersecurity incidents and teams
 
-🔹 [itw-online-store](https://github.com/your-username/itw-online-store)  
+🔹 [itw-online-store](https://github.com/joaonunes11/itw-online-store)  
 🛍️ E-commerce website developed with HTML, CSS, JavaScript and PHP
 
-🔹 [student-feedback-app](https://github.com/your-username/student-feedback-app)  
+🔹 [student-feedback-app](https://github.com/joaonunes11/student-feedback-app)  
 📋 Platform to manage and visualize educational feedback (Full-Stack Educational Tool)
 
 ---
@@ -42,7 +42,6 @@
 ## 📊 Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaonunes11&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaonunes11&show_icons=true&theme=default)
 
 ---
 
