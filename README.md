@@ -14,17 +14,23 @@
 
 ## 🚀 Featured Projects
 
-🔹 [hotel-booking-webapp](https://github.com/joaonunes11/hotel-booking-webapp)  
-🏨 Responsive hotel booking site with JavaScript and modular components (Front-End Project)
+🔹 [pokemon-webgame-itw](https://github.com/joaonunes11/pokemon-webgame-itw)  
+🎮 Web game developed using HTML, CSS, and JavaScript (Front-End)
 
-🔹 [cybersecurity-management-platform](https://github.com/joaonunes11/cybersecurity-management-platform)  
-🛡️ Back-End application for managing cybersecurity incidents and teams
+🔹 [feedme-web-app](https://github.com/joaonunes11/feedme-web-app)  
+🍽️ PHP-based restaurant order management system (Back-End)
 
-🔹 [itw-online-store](https://github.com/joaonunes11/itw-online-store)  
-🛍️ E-commerce website developed with HTML, CSS, JavaScript and PHP
+🔹 [music-db-client-server-app](https://github.com/joaonunes11/music-db-client-server-app)  
+🎵 Python and SQLite client-server system for music catalog management
 
-🔹 [student-feedback-app](https://github.com/joaonunes11/student-feedback-app)  
-📋 Platform to manage and visualize educational feedback (Full-Stack Educational Tool)
+🔹 [matrix-solver-lu-octave](https://github.com/joaonunes11/matrix-solver-lu-octave)  
+🧮 Solving linear systems using LU decomposition (MATLAB)
+
+🔹 [realistic-2d-projectile-motion](https://github.com/joaonunes11/realistic-2d-projectile-motion)  
+🏹 Simulating projectile motion with drag (Python, Physics)
+
+🔹 [secure-client-server-sqlite-py](https://github.com/joaonunes11/secure-client-server-sqlite-py)  
+🔐 Secure Python client-server app using SQLite and sockets
 
 ---
 
