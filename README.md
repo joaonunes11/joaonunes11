@@ -1,7 +1,7 @@
 # 👩‍💻 João Nunes
 
 🎓 **Universidade Aberta (Portugal)**  
-📚 Computer Science Student  
+📚 Computer Engineer Student  
 💻 Passionate about Web Development and Software Engineering  
 🎯 Focused on academic and personal projects in:
 - Front-End & Back-End Web Development
